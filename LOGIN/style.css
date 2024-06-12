@@ -1,0 +1,60 @@
+/* .log{
+    display: flex;
+}
+
+.lg1{
+    max-width: 50%;
+    width: 100%;
+    background-position: center;
+    background-image: url(./imagem/3523414-vector-illustration-business-finance-man-saving-money-on-wallet-fintech-bank-for-saving-people-character-flat-design-style-gratis-vetor.jpg);
+} */
+
+body {
+    background-color: #f5f7fa;
+}
+
+.bg-left {
+    background-color: #f5f7fa;
+    position: relative;
+}
+
+.bg-right {
+    background-color: white;
+    padding: 30px;
+}
+
+.logo {
+    max-width: 100%;
+    }
+    
+    .container-fluid {
+        background: rgb(0,212,255);
+        background: linear-gradient(264deg, rgba(0,212,255,1) 0%, rgba(7,211,254,1) 0%, rgba(53,206,248,1) 0%, rgba(100,200,242,1) 0%, rgba(143,195,237,1) 49%, rgba(179,191,233,1) 100%, rgba(2,0,36,1) 100%);
+
+}
+.col-md-6{
+    background-image: url(./imagem/fundo2.jpg);
+}
+.login-form {
+    width: 100%;
+    max-width: 320px;
+    padding: 15px;
+    background:white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.login-form h2 {
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #2DA4E8;
+    border-color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #ffffff;
+    border-color: #2DA4E8;
+    color: #2DA4E8;
+}
